@@ -1,0 +1,1 @@
+KRIXA : Lightweight SIEM platform (Python detection engine, FastAPI + JWT auth, Flutter mobile client) that detects brute-force, privilege escalation, and reconnaissance activity on Linux servers and pushes real-time alerts to the admin's phone. Currently in the design and planning phase, with the detection engine in active development.
